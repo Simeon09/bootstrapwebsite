@@ -8,5 +8,14 @@ form {
   margin: auto;
   -ms-grid-column-align: center;
       justify-self: center;
+  margin: auto;
+}
+
+.row {
+  margin: auto;
+}
+
+button {
+  width: 100%;
 }
 /*# sourceMappingURL=bootsyleform.css.map */
