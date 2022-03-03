@@ -1,0 +1,12 @@
+.input-group-text {
+  background-color: transparent;
+  border-collapse: collapse;
+}
+
+form {
+  width: 50%;
+  margin: auto;
+  -ms-grid-column-align: center;
+      justify-self: center;
+}
+/*# sourceMappingURL=bootsyleform.css.map */
