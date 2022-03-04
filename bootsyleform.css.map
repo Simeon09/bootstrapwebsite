@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,iBAAiB,CAAA;EACb,gBAAgB,EAAE,WAAW;EAE7B,eAAe,EAAE,QAAQ;CAC5B;;AACD,AAAA,IAAI,CAAA;EACA,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,IAAI;EACZ,YAAY,EAAE,MAAM;EACpB,MAAM,EAAE,IAAI;CACf;;AAED,AAAA,IAAI,CAAA;EACA,MAAM,EAAE,IAAI;CACf;;AACD,AAAA,MAAM,CAAA;EACF,KAAK,EAAE,IAAI;CACd",
-    "sources": [
-        "bootsyleform.scss"
-    ],
-    "names": [],
-    "file": "bootsyleform.css"
-}
